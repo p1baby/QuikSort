@@ -1,4 +1,3 @@
-// Буду использовать JavaScript, nodeJS debuging, node v 20.15.1 , Огарышев Павел
 function insertionSort(arr, low, high) {
 	// Сортирует часть массива от индекса low до high методом сортировки вставками
 	for (let i = low + 1; i <= high; i++) {
